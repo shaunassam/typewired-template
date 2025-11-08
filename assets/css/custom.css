@@ -1,0 +1,110 @@
+/* Header style changes */
+
+#site-header.header {
+    background-color: #15222e;
+    color: #fdfcfc;
+    font-size: 13pt;
+}
+
+.navbar-brand img {
+  /* To shrink to line height, add: h-[1em] */
+  @apply w-auto inline-block;
+  width: 100%;
+}
+
+.hover\:btn-orange:hover {
+  background-color: #ea580c;
+  color: #fdfcfc;
+}
+
+.dark .hover\:btn-orange:hover {
+  background-color: #ea580c;
+  color: #fdfcfc;
+}
+
+/* Content style changes */
+
+.front-featured-round-img {
+  border-radius: 10px;
+}
+
+.blox-cta-image-paragraph {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.blox-cta-image-paragraph p {
+  color: #fdfcfc;
+  font-size: 14pt;
+  font-weight: 400;
+}
+
+.blox-cta-image-paragraph a {
+  font-size: 13pt;
+}
+
+.blox-cta-image-paragraph img {
+  border-radius: 20px;
+}
+
+.card-category-label-bottom {
+  bottom: 0px;
+  border-top-right-radius: 10px;
+}
+
+code {
+  font-family: 'Red Hat Mono';
+  font-weight: 600;
+}
+
+.stories-content {
+  text-align: justify;
+  font-family: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+}
+
+.articles-content {
+  font-family: 'Red Hat Display', 'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+}
+
+.subhead::first-letter {
+  initial-letter: 3;
+  color: inherit;
+  font-weight: bold;
+  margin-right: 0.25em;
+  padding: 0.25em;
+}
+
+/* Background of steps bullets in dark mode */
+.dark .hb-steps h3::before {
+  background-color: #5e5e5e;
+}
+
+.text-pub-links {
+  color: #ea580c;
+}
+
+.dark .text-pub-links {
+  color: #fc8700;
+}
+
+.skills-bg-gradient {
+  background: radial-gradient(circle,rgba(253, 252, 252, 1) 0%, rgba(255, 244, 230, 1) 100%);
+}
+
+.dark .skills-bg-gradient {
+  background: radial-gradient(circle,rgba(28, 63, 112, 1) 0%, rgba(46, 46, 46, 1) 100%);
+}
+
+/* Footer style changes */
+
+.page-footer {
+  --tw-bg-opacity: 1;
+  background-color: #15222e;
+  color: #fdfcfc;
+}
+
+.powered-by {
+  font-size: 0.90rem;
+}
