@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo typewired Theme</title>
-    <link>http://localhost:54811/</link>
-      <atom:link href="http://localhost:54811/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55067/</link>
+      <atom:link href="http://localhost:55067/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo typewired Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:54811/media/logo_hu_ff4dd90f421bf311.png</url>
+      <url>http://localhost:55067/media/logo_hu_ff4dd90f421bf311.png</url>
       <title>Hugo typewired Theme</title>
-      <link>http://localhost:54811/</link>
+      <link>http://localhost:55067/</link>
     </image>
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:54811/docs/getting-started/</link>
+      <link>http://localhost:55067/docs/getting-started/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/getting-started/</guid>
+      <guid>http://localhost:55067/docs/getting-started/</guid>
       <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
 &lt;h3 id=&#34;initialize-a-new-site&#34;&gt;Initialize a new site&lt;/h3&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>Customizing Hugo</title>
-      <link>http://localhost:54811/docs/reference/customization/</link>
+      <link>http://localhost:55067/docs/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/reference/customization/</guid>
+      <guid>http://localhost:55067/docs/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at 
 &lt;/p&gt;
 </description>
@@ -70,9 +70,9 @@
     
     <item>
       <title>Project Structure</title>
-      <link>http://localhost:54811/docs/guide/project-structure/</link>
+      <link>http://localhost:55067/docs/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/project-structure/</guid>
+      <guid>http://localhost:55067/docs/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>http://localhost:54811/docs/guide/configuration/</link>
+      <link>http://localhost:55067/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/configuration/</guid>
+      <guid>http://localhost:55067/docs/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See 
@@ -165,9 +165,9 @@
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:54811/articles/project-management/</link>
+      <link>http://localhost:55067/articles/project-management/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/articles/project-management/</guid>
+      <guid>http://localhost:55067/articles/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -240,9 +240,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:54811/blog/get-started/</link>
+      <link>http://localhost:55067/blog/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/blog/get-started/</guid>
+      <guid>http://localhost:55067/blog/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -530,9 +530,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>The Story</title>
-      <link>http://localhost:54811/stories/get-started/</link>
+      <link>http://localhost:55067/stories/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/stories/get-started/</guid>
+      <guid>http://localhost:55067/stories/get-started/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit, sapien vehicula fermentum scelerisque, elit elit molestie justo, ac mollis metus nulla ac nunc. Vestibulum rutrum laoreet auctor. Vestibulum non nisi faucibus, blandit mauris eu, vestibulum urna. Sed tincidunt pulvinar nibh ac laoreet. Sed nec libero id magna venenatis laoreet quis eu mauris. Praesent fermentum commodo ipsum, non posuere tellus ullamcorper a. Phasellus a lacus in magna gravida sollicitudin. Vivamus vel justo bibendum libero ultricies tristique quis eu ex. Integer aliquam pellentesque tincidunt. Donec id augue ipsum. Nulla fringilla odio quis ex feugiat, et ullamcorper augue viverra. Quisque semper tempus enim, non accumsan dolor varius sit amet. Duis suscipit lectus nisl, aliquet aliquam orci efficitur id. Nulla commodo non metus nec porta.&lt;/p&gt;
 &lt;p&gt;Curabitur tortor nisi, imperdiet quis volutpat sed, faucibus in nisi. Suspendisse potenti. Aliquam neque enim, facilisis gravida purus quis, suscipit cursus quam. Donec ac tincidunt tellus. Sed sit amet ipsum sapien. Nunc ullamcorper nibh eget interdum facilisis. Suspendisse et gravida ex. Quisque ultrices nunc lacinia tortor gravida, a bibendum nisi tempus. Morbi vel malesuada lectus, eget hendrerit turpis. Sed sed sollicitudin justo.&lt;/p&gt;
 &lt;p&gt;Praesent non turpis vitae justo mollis tempus non sed est. Praesent ullamcorper dictum volutpat. Duis ac fermentum ligula. Duis vitae congue erat. Donec hendrerit malesuada pharetra. Ut eget pretium nunc. Donec pharetra, est non elementum bibendum, sapien justo mattis risus, at ultrices neque arcu et justo. Pellentesque arcu neque, finibus eget ultricies id, convallis sit amet felis.&lt;/p&gt;
@@ -568,33 +568,33 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:54811/projects/pandas/</link>
+      <link>http://localhost:55067/projects/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/projects/pandas/</guid>
+      <guid>http://localhost:55067/projects/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:54811/projects/pytorch/</link>
+      <link>http://localhost:55067/projects/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/projects/pytorch/</guid>
+      <guid>http://localhost:55067/projects/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:54811/projects/scikit/</link>
+      <link>http://localhost:55067/projects/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/projects/scikit/</guid>
+      <guid>http://localhost:55067/projects/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:54811/blog/second-brain/</link>
+      <link>http://localhost:55067/blog/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/blog/second-brain/</guid>
+      <guid>http://localhost:55067/blog/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -788,9 +788,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:54811/blog/data-visualization/</link>
+      <link>http://localhost:55067/blog/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/blog/data-visualization/</guid>
+      <guid>http://localhost:55067/blog/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;embed-rich-content&#34;&gt;Embed Rich Content&lt;/h2&gt;
@@ -1053,9 +1053,9 @@ CC-0
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;http://localhost:54811/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp 400w, http://localhost:54811/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_1a388d2557e09cec.webp 600w, http://localhost:54811/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_ca07e4eb34b7fe37.webp 800w, http://localhost:54811/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_2f14b1d24751bb0f.webp 800w&#34;
+         srcset=&#34;http://localhost:55067/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp 400w, http://localhost:55067/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_1a388d2557e09cec.webp 600w, http://localhost:55067/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_ca07e4eb34b7fe37.webp 800w, http://localhost:55067/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_2f14b1d24751bb0f.webp 800w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;http://localhost:54811/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp&#34; 
+         src=&#34;http://localhost:55067/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;300&#34;
          loading=&#34;lazy&#34; 
@@ -1115,9 +1115,9 @@ CC-0
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;http://localhost:54811/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp 400w, http://localhost:54811/photo-1551288049-bebda4e38f71_10164962980614054447_hu_a4269df9626bdc82.webp 600w, http://localhost:54811/photo-1551288049-bebda4e38f71_10164962980614054447_hu_43878f3c13a56a24.webp 600w&#34;
+         srcset=&#34;http://localhost:55067/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp 400w, http://localhost:55067/photo-1551288049-bebda4e38f71_10164962980614054447_hu_a4269df9626bdc82.webp 600w, http://localhost:55067/photo-1551288049-bebda4e38f71_10164962980614054447_hu_43878f3c13a56a24.webp 600w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;http://localhost:54811/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp&#34; 
+         src=&#34;http://localhost:55067/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;267&#34;
          loading=&#34;lazy&#34; 
@@ -1157,7 +1157,7 @@ CC-0
 
 
 
-&lt;div id=&#34;chart-546871392&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-129786453&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1175,7 +1175,7 @@ CC-0
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-546871392&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-129786453&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1358,7 +1358,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-f6d402d3e0ef4f7871a71f74ddcbf5cc&#34;
-    href=&#34;http://localhost:54811/&#34;
+    href=&#34;http://localhost:55067/&#34;
     
     
     
@@ -1443,7 +1443,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-73171eb1b49c461e90dab01f45a3397d&#34;
-    href=&#34;http://localhost:54811/data/results.csv&#34;
+    href=&#34;http://localhost:55067/data/results.csv&#34;
     
     
     
@@ -1566,9 +1566,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:54811/blog/teach-courses/</link>
+      <link>http://localhost:55067/blog/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/blog/teach-courses/</guid>
+      <guid>http://localhost:55067/blog/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -1640,7 +1640,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:54811/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:55067/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1699,9 +1699,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:54811/blog/project-management/</link>
+      <link>http://localhost:55067/blog/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/blog/project-management/</guid>
+      <guid>http://localhost:55067/blog/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1774,17 +1774,17 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>About</title>
-      <link>http://localhost:54811/about/</link>
+      <link>http://localhost:55067/about/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/about/</guid>
+      <guid>http://localhost:55067/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Button Shortcode</title>
-      <link>http://localhost:54811/docs/guide/shortcodes/button/</link>
+      <link>http://localhost:55067/docs/guide/shortcodes/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/shortcodes/button/</guid>
+      <guid>http://localhost:55067/docs/guide/shortcodes/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -1793,7 +1793,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-5df2e4b54807421684928df49b266d55&#34;
-    href=&#34;http://localhost:54811/contact&#34;
+    href=&#34;http://localhost:55067/contact&#34;
     
     
     
@@ -2321,7 +2321,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-66ad598b31748f26e7e56e9ba3f6e6c1&#34;
-    href=&#34;http://localhost:54811/signup&#34;
+    href=&#34;http://localhost:55067/signup&#34;
     
     
     
@@ -2383,7 +2383,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-8e60ed1d24406712d4ea39a995101311&#34;
-    href=&#34;http://localhost:54811/files/document.pdf&#34;
+    href=&#34;http://localhost:55067/files/document.pdf&#34;
     
     
     
@@ -2502,9 +2502,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Callout Shortcode</title>
-      <link>http://localhost:54811/docs/guide/shortcodes/callout/</link>
+      <link>http://localhost:55067/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/shortcodes/callout/</guid>
+      <guid>http://localhost:55067/docs/guide/shortcodes/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -2615,9 +2615,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Cards Shortcode</title>
-      <link>http://localhost:54811/docs/guide/shortcodes/cards/</link>
+      <link>http://localhost:55067/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/shortcodes/cards/</guid>
+      <guid>http://localhost:55067/docs/guide/shortcodes/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -2678,9 +2678,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Internationalization (i18n)</title>
-      <link>http://localhost:54811/docs/reference/i18n/</link>
+      <link>http://localhost:55067/docs/reference/i18n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/reference/i18n/</guid>
+      <guid>http://localhost:55067/docs/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s 
  feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at 
@@ -2689,9 +2689,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Spoiler</title>
-      <link>http://localhost:54811/docs/guide/shortcodes/toggle/</link>
+      <link>http://localhost:55067/docs/guide/shortcodes/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/shortcodes/toggle/</guid>
+      <guid>http://localhost:55067/docs/guide/shortcodes/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -2715,9 +2715,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Steps Shortcode</title>
-      <link>http://localhost:54811/docs/guide/shortcodes/steps/</link>
+      <link>http://localhost:55067/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54811/docs/guide/shortcodes/steps/</guid>
+      <guid>http://localhost:55067/docs/guide/shortcodes/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
