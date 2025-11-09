@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample | Hugo typewired Theme</title>
-    <link>http://localhost:51148/tags/sample/</link>
-      <atom:link href="http://localhost:51148/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:54811/tags/sample/</link>
+      <atom:link href="http://localhost:54811/tags/sample/index.xml" rel="self" type="application/rss+xml" />
     <description>Sample</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:51148/media/logo_hu_ff4dd90f421bf311.png</url>
+      <url>http://localhost:54811/media/logo_hu_ff4dd90f421bf311.png</url>
       <title>Sample</title>
-      <link>http://localhost:51148/tags/sample/</link>
+      <link>http://localhost:54811/tags/sample/</link>
     </image>
     
     <item>
       <title>The Story</title>
-      <link>http://localhost:51148/stories/get-started/</link>
+      <link>http://localhost:54811/stories/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51148/stories/get-started/</guid>
+      <guid>http://localhost:54811/stories/get-started/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit, sapien vehicula fermentum scelerisque, elit elit molestie justo, ac mollis metus nulla ac nunc. Vestibulum rutrum laoreet auctor. Vestibulum non nisi faucibus, blandit mauris eu, vestibulum urna. Sed tincidunt pulvinar nibh ac laoreet. Sed nec libero id magna venenatis laoreet quis eu mauris. Praesent fermentum commodo ipsum, non posuere tellus ullamcorper a. Phasellus a lacus in magna gravida sollicitudin. Vivamus vel justo bibendum libero ultricies tristique quis eu ex. Integer aliquam pellentesque tincidunt. Donec id augue ipsum. Nulla fringilla odio quis ex feugiat, et ullamcorper augue viverra. Quisque semper tempus enim, non accumsan dolor varius sit amet. Duis suscipit lectus nisl, aliquet aliquam orci efficitur id. Nulla commodo non metus nec porta.&lt;/p&gt;
 &lt;p&gt;Curabitur tortor nisi, imperdiet quis volutpat sed, faucibus in nisi. Suspendisse potenti. Aliquam neque enim, facilisis gravida purus quis, suscipit cursus quam. Donec ac tincidunt tellus. Sed sit amet ipsum sapien. Nunc ullamcorper nibh eget interdum facilisis. Suspendisse et gravida ex. Quisque ultrices nunc lacinia tortor gravida, a bibendum nisi tempus. Morbi vel malesuada lectus, eget hendrerit turpis. Sed sed sollicitudin justo.&lt;/p&gt;
 &lt;p&gt;Praesent non turpis vitae justo mollis tempus non sed est. Praesent ullamcorper dictum volutpat. Duis ac fermentum ligula. Duis vitae congue erat. Donec hendrerit malesuada pharetra. Ut eget pretium nunc. Donec pharetra, est non elementum bibendum, sapien justo mattis risus, at ultrices neque arcu et justo. Pellentesque arcu neque, finibus eget ultricies id, convallis sit amet felis.&lt;/p&gt;

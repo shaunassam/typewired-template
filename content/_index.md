@@ -19,7 +19,7 @@ sections:
           text: "[**typewired**](https://www.typewired.com) is a customized Hugo Blox theme created by Shaun Assam. **typewired** was derived from the Hugo Blox Academic CV with the addition of the Documentation templates."
           image: "typewired-logo.png"
           button:
-            text: "Get the typewired template on GitHub"
+            text: "Get the theme from GitHub"
             url: "https://github.com/shaunassam/typewired-template"
     design:
       background:

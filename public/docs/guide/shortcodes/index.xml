@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcodes | Hugo typewired Theme</title>
-    <link>http://localhost:51148/docs/guide/shortcodes/</link>
-      <atom:link href="http://localhost:51148/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:54811/docs/guide/shortcodes/</link>
+      <atom:link href="http://localhost:54811/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <description>Shortcodes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:51148/docs/guide/shortcodes/featured.png</url>
+      <url>http://localhost:54811/docs/guide/shortcodes/featured.png</url>
       <title>Shortcodes</title>
-      <link>http://localhost:51148/docs/guide/shortcodes/</link>
+      <link>http://localhost:54811/docs/guide/shortcodes/</link>
     </image>
     
     <item>
       <title>Button Shortcode</title>
-      <link>http://localhost:51148/docs/guide/shortcodes/button/</link>
+      <link>http://localhost:54811/docs/guide/shortcodes/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51148/docs/guide/shortcodes/button/</guid>
+      <guid>http://localhost:54811/docs/guide/shortcodes/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -25,7 +25,7 @@
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-5df2e4b54807421684928df49b266d55&#34;
-    href=&#34;http://localhost:51148/contact&#34;
+    href=&#34;http://localhost:54811/contact&#34;
     
     
     
@@ -553,7 +553,7 @@
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-66ad598b31748f26e7e56e9ba3f6e6c1&#34;
-    href=&#34;http://localhost:51148/signup&#34;
+    href=&#34;http://localhost:54811/signup&#34;
     
     
     
@@ -615,7 +615,7 @@
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-8e60ed1d24406712d4ea39a995101311&#34;
-    href=&#34;http://localhost:51148/files/document.pdf&#34;
+    href=&#34;http://localhost:54811/files/document.pdf&#34;
     
     
     
@@ -734,9 +734,9 @@
     
     <item>
       <title>Callout Shortcode</title>
-      <link>http://localhost:51148/docs/guide/shortcodes/callout/</link>
+      <link>http://localhost:54811/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51148/docs/guide/shortcodes/callout/</guid>
+      <guid>http://localhost:54811/docs/guide/shortcodes/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -847,9 +847,9 @@
     
     <item>
       <title>Cards Shortcode</title>
-      <link>http://localhost:51148/docs/guide/shortcodes/cards/</link>
+      <link>http://localhost:54811/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51148/docs/guide/shortcodes/cards/</guid>
+      <guid>http://localhost:54811/docs/guide/shortcodes/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -910,9 +910,9 @@
     
     <item>
       <title>Spoiler</title>
-      <link>http://localhost:51148/docs/guide/shortcodes/toggle/</link>
+      <link>http://localhost:54811/docs/guide/shortcodes/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51148/docs/guide/shortcodes/toggle/</guid>
+      <guid>http://localhost:54811/docs/guide/shortcodes/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -936,9 +936,9 @@
     
     <item>
       <title>Steps Shortcode</title>
-      <link>http://localhost:51148/docs/guide/shortcodes/steps/</link>
+      <link>http://localhost:54811/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51148/docs/guide/shortcodes/steps/</guid>
+      <guid>http://localhost:54811/docs/guide/shortcodes/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
