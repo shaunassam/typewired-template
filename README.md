@@ -7,7 +7,7 @@
 </p>
 
 <p>
-   This theme initially started as a fun project to learn Hugo by creating a corporate-like web site inspired by the TailBliss design. It was then adapted as a portfolio to showcase my various writing projects, hosted on the upcoming <a href="https://typewired.com"><strong>typewired.com</strong> website.
+   This theme initially started as a fun project to learn Hugo by creating a corporate-like web site inspired by the TailBliss design. It was then adapted as a portfolio to showcase my various writing projects, hosted on the upcoming <a href="https://typewired.com"><strong>typewired.com</strong></a> website.
 </p>
 
 ---
